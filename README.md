@@ -7,5 +7,14 @@ This SwiftUI project determines the mobile device's heading direction toward a s
 ✅ Real-time compass heading  
 ✅ Calculates direction toward any specified coordinates  
 ✅ Built using SwiftUI for a smooth and modern interface  
+✅ Added smooth hapticfeedback 
 
 ---
+## **Screenshots**
+<table align="center">
+  <tr>
+    <td><img src="Screenshots/IMG_3251.PNG" width="300"></td>
+    <td style="width: 50px;"></td>
+    <td><img src="Screenshots/IMG_3251.PNG" width="300"></td>
+  </tr>
+</table>
