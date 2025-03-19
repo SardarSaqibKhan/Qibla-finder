@@ -15,6 +15,6 @@ This SwiftUI project determines the mobile device's heading direction toward a s
   <tr>
     <td><img src="Screenshots/IMG_3251.PNG" width="300"></td>
     <td style="width: 50px;"></td>
-    <td><img src="Screenshots/IMG_3251.PNG" width="300"></td>
+    <td><img src="Screenshots/IMG_3252.PNG" width="300"></td>
   </tr>
 </table>
